@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Data Science" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
+<img align="right" alt="Data Analytics Dashboard" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
 💼 **Aspiring Data Analyst** passionate about transforming raw data into actionable business insights using modern analytics tools and techniques.
 
@@ -68,11 +68,11 @@
 ## 🔭 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HlVJMw7rkPTN8NW/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </div>
 
 ### 🤖 [NLP Chatbot for Restaurants](https://github.com/Hassamkhan888/Final-Deliverable-BC210414987-)
-<img align="right" alt="AI Chatbot" width="200" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif"/>
+<img align="right" alt="Chatbot Analytics" width="200" src="https://media.giphy.com/media/3o7qDMlVizuZhQr3rq/giphy.gif"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -90,7 +90,7 @@
 ---
 
 ### 📊 [Ecommerce Sales Dashboard](https://github.com/Hassamkhan888/ecommerce-sales-dashboard)
-<img align="left" alt="Data Analytics" width="200" src="https://media.giphy.com/media/3o7qDDNLf1TCfsCTyU/giphy.gif"/>
+<img align="left" alt="Ecommerce Dashboard" width="200" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -109,7 +109,7 @@
 ---
 
 ### 📈 [Sales Analytics Dashboard](https://github.com/Hassamkhan888/sales-analytics-dashboard)
-<img align="right" alt="Business Intelligence" width="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img align="right" alt="Sales Analytics" width="200" src="https://media.giphy.com/media/l378Bu6ZYmzS6nBrW/giphy.gif"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
@@ -128,7 +128,7 @@
 ---
 
 ### 🐍 [College Majors Earnings Analysis](https://github.com/Hassamkhan888/college-majors-earnings)
-<img align="left" alt="Python Analytics" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+<img align="left" alt="Python Data Analysis" width="200" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -149,7 +149,7 @@
 ## 🌱 Currently Learning
 
 <div align="center">
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="350"/>
 </div>
 
 <div align="center">
@@ -174,7 +174,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
 </div>
 
 <div align="center">
@@ -195,7 +195,7 @@
 ## 🤝 Let's Collaborate
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <img src="https://media.giphy.com/media/3o7qDGMZWkiS428Jhu/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 
 🚀 I'm actively seeking collaboration opportunities on:
@@ -223,7 +223,7 @@
 ## ⚡ Fun Fact
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="150"/>
 </div>
 
 > *"I believe every good data analysis starts with a strong cup of chai! ☕📊"*
