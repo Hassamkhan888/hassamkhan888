@@ -1,6 +1,11 @@
 # Hi 👋, I'm Hassam Khan
 
-### 💼 Aspiring Data Analyst | Turning data into actionable insights using Python, SQL, Power BI & Excel
+### 💼 Aspiring Data Analyst | Turning data into actionable insights using  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white) 
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-006666?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ---
 
@@ -40,7 +45,7 @@ Python, SQL, Power BI, Excel, Looker Studio, BigQuery, Google Cloud
 ## 👨‍💻 All of my projects are available at  
 🔗 [GitHub Profile](https://github.com/Hassamkhan888)
 
-
+---
 
 ## 📄 Know about my experiences  
 📄 [View My Resume](https://drive.google.com/file/d/1QJyB18fd4HQTyFUu18gqueqvIHnyucMm/view?usp=sharing)
