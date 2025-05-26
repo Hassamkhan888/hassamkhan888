@@ -58,27 +58,23 @@
   <img src="https://img.shields.io/badge/🚀-Career%20Roadmap-success?style=for-the-badge" alt="Roadmap"/>
 </div>
 
-```mermaid
-graph LR
-    A[🎓 Learning Phase] --> B[📊 Current: Data Analyst]
-    B --> C[📈 Goal: Senior Analyst]
-    C --> D[🏆 Vision: Data Science Lead]
-    
-    style A fill:#e1f5fe
-    style B fill:#c8e6c9
-    style C fill:#fff3e0
-    style D fill:#f3e5f5
-```
-
 <div align="center">
+
+### 📈 Career Progress Timeline
 
 | **Phase** | **Timeline** | **Focus Area** | **Status** |
 |-----------|-------------|----------------|------------|
-| **Foundation** | 2022-2023 | Python, SQL, Statistics | ✅ **Completed** |
-| **Specialization** | 2024 | Power BI, Cloud Analytics | 🔄 **In Progress** |
-| **Advanced Skills** | 2024-2025 | ML, BigQuery, GCP | 📚 **Learning** |
-| **Career Growth** | 2025+ | Senior Data Analyst Role | 🎯 **Target** |
+| **🎓 Foundation** | 2022-2023 | Python, SQL, Statistics | ✅ **Completed** |
+| **📊 Specialization** | 2024 | Power BI, Cloud Analytics | 🔄 **In Progress** |
+| **🤖 Advanced Skills** | 2024-2025 | ML, BigQuery, GCP | 📚 **Learning** |
+| **🏆 Career Growth** | 2025+ | Senior Data Analyst Role | 🎯 **Target** |
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Current%20Phase-Specialization-blue?style=for-the-badge" alt="Current Phase"/>
+  <img src="https://img.shields.io/badge/Next%20Goal-Advanced%20Skills-orange?style=for-the-badge" alt="Next Goal"/>
+  <img src="https://img.shields.io/badge/Ultimate%20Target-Senior%20Analyst-green?style=for-the-badge" alt="Target"/>
 </div>
 
 ---
@@ -125,11 +121,6 @@ graph LR
 
 </div>
 
-<div align="center">
-  <img src="https://progress-bar.dev/85/?title=Python&width=120&color=3776AB" alt="Python Progress"/>
-  <img src="https://progress-bar.dev/80/?title=SQL&width=120&color=4479A1" alt="SQL Progress"/>
-</div>
-
 ### 📊 Data Analysis & Visualization
 <div align="center">
 
@@ -139,23 +130,12 @@ graph LR
 
 </div>
 
-<div align="center">
-  <img src="https://progress-bar.dev/90/?title=Power%20BI&width=120&color=F2C811" alt="Power BI Progress"/>
-  <img src="https://progress-bar.dev/95/?title=Excel&width=120&color=217346" alt="Excel Progress"/>
-  <img src="https://progress-bar.dev/70/?title=Looker%20Studio&width=120&color=4285F4" alt="Looker Progress"/>
-</div>
-
 ### ☁️ Cloud & Big Data
 <div align="center">
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
-</div>
-
-<div align="center">
-  <img src="https://progress-bar.dev/65/?title=Google%20Cloud&width=120&color=4285F4" alt="GCP Progress"/>
-  <img src="https://progress-bar.dev/70/?title=BigQuery&width=120&color=669DF6" alt="BigQuery Progress"/>
 </div>
 
 ### 🔧 Python Libraries
@@ -167,14 +147,6 @@ graph LR
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-</div>
-
-<div align="center">
-  <img src="https://progress-bar.dev/90/?title=Pandas&width=100&color=150458" alt="Pandas Progress"/>
-  <img src="https://progress-bar.dev/85/?title=NumPy&width=100&color=013243" alt="NumPy Progress"/>
-  <img src="https://progress-bar.dev/80/?title=Matplotlib&width=100&color=11557c" alt="Matplotlib Progress"/>
-  <img src="https://progress-bar.dev/75/?title=Seaborn&width=100&color=3776AB" alt="Seaborn Progress"/>
-  <img src="https://progress-bar.dev/70/?title=Scikit-Learn&width=100&color=F7931E" alt="Scikit-Learn Progress"/>
 </div>
 
 ---
@@ -292,24 +264,16 @@ graph LR
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hassamkhan888&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassamkhan888&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassamkhan888&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassamkhan888&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Hassam's%20GitHub%20Statistics" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassamkhan888&layout=compact&langs_count=8&theme=tokyonight&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassamkhan888&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassamkhan888&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassamkhan888&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hassamkhan888&theme=tokyonight" alt="Profile Summary"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassamkhan888&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ### 📈 Key Metrics
@@ -394,35 +358,21 @@ When I'm not analyzing datasets or building dashboards, you'll find me exploring
 
 ---
 
-## 🏆 Professional Signature
+## 🏆 Professional Summary
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    █▀█ █▀█ █▀▀ █▀▀ █▀▀ █▀▀ █▀█ █ █▀█ █▄█ █▀█ █     █▀▀ █▄█       ║
-║    █▀▀ █▀▄ █▄█ █▀▀ █▀▀ ▀▀█ ▀▀█ █ █▄█ █ █ █▀█ █     █▄▄ █ █       ║
-║    ▀   ▀ ▀ ▀   ▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀ ▀▀▀   ▀▀▀ ▀ ▀       ║
-║                                                                  ║
-║         "Transforming Data into Strategic Business Value"        ║
-║                                                                  ║
-║  🎯 Expertise: Python | SQL | Power BI | Cloud Analytics        ║
-║  📍 Location: Pakistan | 🌍 Remote Work Available               ║
-║  💼 Status: Open for Data Analyst Opportunities                 ║
-║  🚀 Mission: Driving Growth Through Data-Driven Insights        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+**🎯 Expertise:** Python | SQL | Power BI | Cloud Analytics  
+**📍 Location:** Pakistan | 🌍 Remote Work Available  
+**💼 Status:** Open for Data Analyst Opportunities  
+**🚀 Mission:** Driving Growth Through Data-Driven Insights
 
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/⭐-If%20you%20like%20my%20work%2C%20please%20star%20my%20repos!-yellow?style=for-the-badge" alt="Star Repos"/>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=fff"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/⭐-If%20you%20like%20my%20work%2C%20please%20star%20my%20repos!-yellow?style=for-the-badge" alt="Star Repos"/>
 </div>
