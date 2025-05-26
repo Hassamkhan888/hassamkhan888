@@ -5,18 +5,24 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Data Science" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"/>
 
 💼 **Aspiring Data Analyst** passionate about transforming raw data into actionable business insights using modern analytics tools and techniques.
 
 🎯 **Mission**: Leveraging data to drive strategic decision-making and business growth through comprehensive analysis and visualization.
+
+🔍 **Specializations**: 
+- 📊 Statistical Analysis & Data Modeling
+- 📈 Business Intelligence & Dashboard Creation  
+- 🤖 Machine Learning & Predictive Analytics
+- 📋 Data Cleaning & ETL Processes
 
 <br clear="both"/>
 
@@ -47,15 +53,16 @@
 ## 🔭 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/l0HlVJMw7rkPTN8NW/giphy.gif" width="500"/>
 </div>
 
 ### 🤖 [NLP Chatbot for Restaurants](https://github.com/Hassamkhan888/Final-Deliverable-BC210414987-)
-<img align="right" alt="Chatbot" width="200" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
+<img align="right" alt="AI Chatbot" width="200" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-00D2FF?style=flat-square&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
 
 > Intelligent chatbot solution built with Dialogflow & Python to enhance customer experience through automated menu queries, order processing, and FAQ handling.
 
@@ -64,44 +71,70 @@
 - 📋 Automated order management system
 - 🔗 Integration with restaurant databases
 - ⚡ Real-time customer support
+- 📊 Analytics dashboard for performance tracking
 
 <br clear="both"/>
 
 ---
 
 ### 📊 [Ecommerce Sales Dashboard](https://github.com/Hassamkhan888/ecommerce-sales-dashboard)
-<img align="left" alt="Dashboard" width="200" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+<img align="left" alt="Data Analytics" width="200" src="https://media.giphy.com/media/3o7qDDNLf1TCfsCTyU/giphy.gif"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> Comprehensive Power BI dashboard providing deep insights into ecommerce performance metrics.
+> Comprehensive Power BI dashboard providing deep insights into ecommerce performance metrics with advanced data modeling and interactive visualizations.
 
 **Analytics Included:**
-- 📈 Revenue trend analysis
-- 👥 Customer behavior patterns
-- 🛍️ Product performance metrics
+- 📈 Revenue trend analysis & forecasting
+- 👥 Customer behavior patterns & segmentation
+- 🛍️ Product performance metrics & recommendations
 - 🚀 Growth opportunity identification
+- 🎯 KPI monitoring & alerts
 
 <br clear="both"/>
 
 ---
 
 ### 📈 [Sales Analytics Dashboard](https://github.com/Hassamkhan888/sales-analytics-dashboard)
-<img align="right" alt="Analytics" width="200" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
+<img align="right" alt="Business Intelligence" width="200" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-> Strategic sales analysis dashboard supporting data-driven business decisions.
+> Strategic sales analysis dashboard supporting data-driven business decisions with predictive analytics and statistical modeling.
 
 **Insights Delivered:**
-- 📊 Sales trend visualization
-- 🔮 Revenue forecasting
-- 🎯 Customer segmentation analysis
-- 📋 Performance KPI tracking
+- 📊 Sales trend visualization & statistical analysis
+- 🔮 Revenue forecasting using ML algorithms
+- 🎯 Customer segmentation analysis & profiling
+- 📋 Performance KPI tracking & benchmarking
+- 💡 Actionable business recommendations
+
+<br clear="both"/>
+
+---
+
+### 🧠 [Data Science Portfolio](https://github.com/Hassamkhan888)
+<img align="left" alt="Data Science" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+> Collection of data science projects showcasing expertise in statistical analysis, machine learning, and data visualization.
+
+**Projects Include:**
+- 🔍 Exploratory Data Analysis (EDA) studies
+- 🤖 Machine Learning model implementations
+- 📊 Statistical hypothesis testing
+- 🎨 Advanced data visualizations
+- 📈 Time series analysis & forecasting
 
 <br clear="both"/>
 
@@ -110,27 +143,42 @@
 ## 🌱 Currently Learning
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="400"/>
 </div>
 
 <div align="center">
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Advanced-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery%20Advanced-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=databricks&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF9500?style=for-the-badge&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
 🎓 Expanding my expertise in cloud-based analytics, advanced machine learning techniques, and enterprise-level data solutions.
 
-**Learning Path:**
-- 🤖 Advanced Machine Learning Algorithms
-- ☁️ Google Cloud Professional Data Engineer Certification
-- 📊 Advanced BigQuery for Large-Scale Analytics
-- 🧠 AI/ML Model Deployment & MLOps
-- 🔍 Advanced Statistical Analysis
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="300"/>
+</div>
+
+**Current Learning Path:**
+- 🤖 **Advanced Machine Learning** - Deep Neural Networks, Ensemble Methods
+- ☁️ **Cloud Certifications** - Google Cloud Professional Data Engineer
+- 📊 **Big Data Analytics** - Spark, Hadoop, Advanced BigQuery
+- 🧠 **AI/ML Operations** - Model Deployment, MLOps, CI/CD for ML
+- 🔍 **Advanced Statistics** - Bayesian Analysis, Time Series, A/B Testing
+- 🎯 **Business Intelligence** - Advanced DAX, MDX, Enterprise Dashboards
+- 🔬 **Research Methods** - Experimental Design, Causal Inference
+
+**Certifications in Progress:**
+- 📜 Google Cloud Professional Data Engineer
+- 📜 AWS Certified Machine Learning - Specialty  
+- 📜 Microsoft Certified: Azure Data Scientist Associate
+- 📜 Tableau Desktop Specialist
 
 ---
 
@@ -140,16 +188,75 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="300"/>
+</div>
+
 🚀 I'm actively seeking collaboration opportunities on:
 
 - **📊 Data Analytics Projects** - Bringing fresh perspectives to data challenges
 - **📈 Dashboard Development** - Creating impactful visualizations  
 - **🤖 Machine Learning Applications** - Exploring predictive analytics
 - **🌐 Open Source Contributions** - Contributing to the data science community
+- **🔬 Research Projects** - Academic and industry research collaborations
+- **💼 Freelance Opportunities** - Data analysis consulting projects
 
 ---
 
+## 📊 Data Science Expertise
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qDGMZWkiS428Jhu/giphy.gif" width="400"/>
+</div>
+
+### 🔬 Methodologies & Frameworks
+
+<div align="center">
+
+![CRISP-DM](https://img.shields.io/badge/CRISP--DM-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20Analytics-FF9500?style=for-the-badge&logo=agile&logoColor=white)
+![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL%20Processes-4285F4?style=for-the-badge&logo=apache&logoColor=white)
+
+</div>
+
+### 📈 Analytics Specializations
+
+<div align="center">
+  
+**🔍 Exploratory Data Analysis** • **📊 Statistical Modeling** • **🔮 Predictive Analytics**  
+**📋 A/B Testing** • **🎯 Customer Segmentation** • **💰 Revenue Optimization**  
+**📉 Risk Analysis** • **🚀 Growth Analytics** • **⏱️ Time Series Forecasting**
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="250"/>
+</div>
+
+### 🎯 Key Performance Indicators
+
+<div align="center">
+
+![KPI](https://img.shields.io/badge/ROI%20Analysis-00C851?style=flat-square&logo=chartdotjs&logoColor=white)
+![Metrics](https://img.shields.io/badge/Performance%20Metrics-FF4444?style=flat-square&logo=grafana&logoColor=white)
+![Analytics](https://img.shields.io/badge/Business%20Intelligence-0099CC?style=flat-square&logo=tableau&logoColor=white)
+![Reporting](https://img.shields.io/badge/Executive%20Reporting-FF6900?style=flat-square&logo=powerbi&logoColor=white)
+
+</div>
+
+**📊 Specialized in creating actionable insights through:**
+- Revenue Growth Analysis & Forecasting
+- Customer Lifetime Value (CLV) Modeling  
+- Market Basket Analysis & Recommendation Systems
+- Churn Prediction & Retention Strategies
+- Pricing Optimization & Elasticity Analysis
+
 ## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassamkhan888&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -162,6 +269,10 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassamkhan888&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="300"/>
 </div>
 
 ---
@@ -185,7 +296,7 @@
 ## ⚡ Fun Fact
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150"/>
 </div>
 
 > *"I believe every good data analysis starts with a strong cup of chai! ☕📊"*
@@ -193,8 +304,15 @@
 When I'm not analyzing datasets or building dashboards, you'll find me exploring new visualization techniques and staying updated with the latest trends in data science and analytics.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
 </div>
+
+**🎯 Quick Facts About Me:**
+- 📚 I read 2-3 data science research papers every week
+- 🎨 I enjoy creating data art and unconventional visualizations  
+- 🧩 Problem-solving with data is my favorite puzzle
+- 🌟 I believe in making data accessible to everyone
+- 🔄 Continuous learner - always exploring new tools and techniques
 
 ---
 
@@ -207,7 +325,7 @@ When I'm not analyzing datasets or building dashboards, you'll find me exploring
   
 ### 💭 *"Data is the new oil, but insights are the refined fuel that drives business success."*
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
 
 </div>
 
