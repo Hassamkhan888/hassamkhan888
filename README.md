@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=for-the-badge" alt="Status"/>
 </div>
 
-
 ---
 
 ## 🚀 About Me
@@ -92,21 +91,6 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </div>
 
-### 🤖 [NLP Chatbot for Restaurants](https://github.com/Hassamkhan888/Final-Deliverable-BC210414987-)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-> Intelligent chatbot solution built with Python to enhance customer experience through automated menu queries, order processing, and FAQ handling.
-
-**Key Features:**
-- 🧠 Natural Language Processing for customer queries
-- 📋 Automated order management system
-- 🔗 Integration with restaurant databases
-- ⚡ Real-time customer support
-
-<br clear="both"/>
-
 ---
 
 ### 📊 [Ecommerce Sales Dashboard](https://github.com/Hassamkhan888/ecommerce-sales-dashboard)
@@ -158,6 +142,27 @@
 - 📊 Statistical analysis of earnings by major
 - 📈 Career outcome trend identification
 - 🧹 Data cleaning and preprocessing workflows
+
+<br clear="both"/>
+
+---
+
+### 🤖 [NLP Chatbot for Restaurants](https://github.com/Hassamkhan888/Final-Deliverable-BC210414987-)
+<img align="right" alt="Chatbot Analytics" width="200" src="https://media.giphy.com/media/3o7qDMlVizuZhQr3rq/giphy.gif"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+> Intelligent chatbot solution built with Python to enhance customer experience through automated menu queries, order processing, and FAQ handling.
+
+**Key Features:**
+- 🧠 Natural Language Processing for customer queries
+- 📋 Automated order management system
+- 🔗 Integration with restaurant databases
+- ⚡ Real-time customer support
 
 <br clear="both"/>
 
