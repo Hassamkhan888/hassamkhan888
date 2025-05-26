@@ -11,44 +11,6 @@
   <img src="https://img.shields.io/badge/Status-Open%20for%20Opportunities-brightgreen?style=for-the-badge" alt="Status"/>
 </div>
 
----
-
-## 🔥 What I'm Currently Working On
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🚧-Active%20Development-yellow?style=for-the-badge" alt="Active Development"/>
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🎯 Current Focus
-**Google Cloud Analytics Mastery**
-- 📊 Advanced BigQuery optimization
-- 🔄 ETL pipeline development  
-- 📈 Looker Studio dashboard design
-- 🎓 GCP certification preparation
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 Next Sprint
-**Machine Learning Integration**
-- 🤖 Predictive analytics models
-- 📊 Customer segmentation algorithms
-- 🔮 Sales forecasting systems
-- 📈 A/B testing frameworks
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/⏰-Daily%20Coding-blue?style=for-the-badge" alt="Daily Coding"/>
-  <img src="https://img.shields.io/badge/📚-Continuous%20Learning-green?style=for-the-badge" alt="Learning"/>
-  <img src="https://img.shields.io/badge/🎯-Goal%20Oriented-orange?style=for-the-badge" alt="Goal Oriented"/>
-</div>
 
 ---
 
