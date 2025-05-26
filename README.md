@@ -44,7 +44,6 @@
 ## 🛠️ Tech Stack & Proficiency
 
 <div align="center">
-  <img src="https://img.shields.io/badge/⚡-Always%20Learning%20New%20Technologies-ff69b4?style=for-the-badge" alt="Learning"/>
 </div>
 
 ### 💻 Programming Languages
@@ -148,7 +147,6 @@
 ---
 
 ### 🤖 [NLP Chatbot for Restaurants](https://github.com/Hassamkhan888/Final-Deliverable-BC210414987-)
-<img align="right" alt="Chatbot Analytics" width="200" src="https://media.giphy.com/media/3o7qDMlVizuZhQr3rq/giphy.gif"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
