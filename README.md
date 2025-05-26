@@ -1,96 +1,148 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Hassam Khan  
-
-### 💼 Data Analyst | Transforming Raw Data into Strategic Insights
-
-<div align="center" style="margin: 20px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="SQL" title="SQL"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="50" height="50" alt="Power BI" title="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" height="50" alt="Excel" title="Excel"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/6002/6002205.png" width="50" height="50" alt="Statistics" title="Statistics"/>
-</div>
-
----
-
-## <img src="https://github.com/About-You-Studio/emoji-picker/blob/main/public/emojis/1f680.png?raw=true" width="30"/> Current Project  
-
-### [NLP Chatbot for Restaurants](https://github.com/Hassamkhan888/Final-Deliverable-BC210414987-)
-<img src="https://raw.githubusercontent.com/Hassamkhan888/Final-Deliverable-BC210414987-/main/chatbot-screenshot.png" width="300" align="right" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="Chatbot Preview">  
-
-**Technologies Used:**  
-- Python
-- Dialogflow
-- Natural Language Processing
-- Flask (for deployment)
-
-**Key Features:**  
-✔ Menu inquiry system  
-✔ Order processing integration  
-✔ FAQ automation  
-✔ Sentiment analysis  
-
----
-
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png" width="30"/> Collaboration Opportunity  
-
-### [Ecommerce Sales Dashboard](https://github.com/Hassamkhan888/ecommerce-sales-dashboard)  
-
-**Dashboard Highlights:**  
-- Revenue trend analysis
-- Customer segmentation
-- Product performance metrics
-- Geographic sales distribution
-
-**Tech Stack:**  
-- Power BI
-- DAX
-- SQL for data processing
-- Custom visualizations
-
----
-
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" width="30"/> Currently Learning  
-
-<div align="center" style="margin: 15px 0;">
-  <img src="https://cdn.worldvectorlogo.com/logos/looker.svg" width="50" height="50" alt="Looker Studio" title="Looker Studio"/>
-  <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="50" height="50" alt="BigQuery" title="BigQuery"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50" alt="Google Cloud" title="Google Cloud"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" alt="Machine Learning" title="Machine Learning"/>
-</div>
-
----
-
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e7.png" width="30"/> Contact Me  
-
-<div align="center" style="margin: 20px 0;">
-  <a href="mailto:hassamkhan516@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="50" height="50" alt="Email" style="margin: 0 10px;"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="50" height="50" alt="LinkedIn" style="margin: 0 10px;"/>
-  </a>
-</div>
-
----
-
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c1.png" width="30"/> Portfolio  
+# Hi 👋, I'm Hassam Khan
 
 <div align="center">
-  <a href="https://github.com/Hassamkhan888" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" alt="GitHub"/>
-    <p>GitHub Profile</p>
-  </a>
-  <a href="https://drive.google.com/file/d/1QJyB18fd4HQTyFUu18gqueqvIHnyucMm/view?usp=sharing">
-    <img src="https://www.vectorlogo.zone/logos/adobe_acrobatreader/adobe_acrobatreader-icon.svg" width="40" height="40" alt="Resume"/>
-    <p>View Resume</p>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Expert;Turning+Data+into+Insights" alt="Typing SVG" />
 </div>
 
 ---
 
-## <img src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png" width="30"/> Fun Fact  
-"I believe every good data analysis starts with a strong cup of chai! The perfect blend of caffeine and code." ☕💻  
+## 🚀 About Me
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=Hassamkhan888&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+💼 **Aspiring Data Analyst** passionate about transforming raw data into actionable business insights using modern analytics tools and techniques.
+
+🎯 **Mission**: Leveraging data to drive strategic decision-making and business growth through comprehensive analysis and visualization.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Cloud & Databases
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+### Tools & Frameworks
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 🔭 Featured Projects
+
+### 🤖 [NLP Chatbot for Restaurants](https://github.com/Hassamkhan888/Final-Deliverable-BC210414987-)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
+
+> Intelligent chatbot solution built with Dialogflow & Python to enhance customer experience through automated menu queries, order processing, and FAQ handling.
+
+**Key Features:**
+- Natural Language Processing for customer queries
+- Automated order management system
+- Integration with restaurant databases
+- Real-time customer support
+
+---
+
+### 📊 [Ecommerce Sales Dashboard](https://github.com/Hassamkhan888/ecommerce-sales-dashboard)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+> Comprehensive Power BI dashboard providing deep insights into ecommerce performance metrics.
+
+**Analytics Included:**
+- Revenue trend analysis
+- Customer behavior patterns
+- Product performance metrics
+- Growth opportunity identification
+
+---
+
+### 📈 [Sales Analytics Dashboard](https://github.com/Hassamkhan888/sales-analytics-dashboard)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+> Strategic sales analysis dashboard supporting data-driven business decisions.
+
+**Insights Delivered:**
+- Sales trend visualization
+- Revenue forecasting
+- Customer segmentation analysis
+- Performance KPI tracking
+
+---
+
+## 🌱 Currently Learning
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Advanced-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery%20Advanced-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+</div>
+
+Expanding my expertise in cloud-based analytics, advanced machine learning techniques, and enterprise-level data solutions.
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm actively seeking collaboration opportunities on:
+
+- **Data Analytics Projects** - Bringing fresh perspectives to data challenges
+- **Dashboard Development** - Creating impactful visualizations
+- **Machine Learning Applications** - Exploring predictive analytics
+- **Open Source Contributions** - Contributing to the data science community
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassamkhan888&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassamkhan888&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassamkhan516@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hassamkhan888)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1QJyB18fd4HQTyFUu18gqueqvIHnyucMm/view?usp=sharing)
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+> *"I believe every good data analysis starts with a strong cup of chai! ☕📊"*
+
+When I'm not analyzing datasets or building dashboards, you'll find me exploring new visualization techniques and staying updated with the latest trends in data science and analytics.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hassamkhan888&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<div align="center">
+  
+### 💭 *"Data is the new oil, but insights are the refined fuel that drives business success."*
+
 </div>
