@@ -52,33 +52,6 @@
 
 ---
 
-## 🎯 Professional Journey & Goals
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀-Career%20Roadmap-success?style=for-the-badge" alt="Roadmap"/>
-</div>
-
-<div align="center">
-
-### 📈 Career Progress Timeline
-
-| **Phase** | **Timeline** | **Focus Area** | **Status** |
-|-----------|-------------|----------------|------------|
-| **🎓 Foundation** | 2022-2023 | Python, SQL, Statistics | ✅ **Completed** |
-| **📊 Specialization** | 2024 | Power BI, Cloud Analytics | 🔄 **In Progress** |
-| **🤖 Advanced Skills** | 2024-2025 | ML, BigQuery, GCP | 📚 **Learning** |
-| **🏆 Career Growth** | 2025+ | Senior Data Analyst Role | 🎯 **Target** |
-
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Current%20Phase-Specialization-blue?style=for-the-badge" alt="Current Phase"/>
-  <img src="https://img.shields.io/badge/Next%20Goal-Advanced%20Skills-orange?style=for-the-badge" alt="Next Goal"/>
-  <img src="https://img.shields.io/badge/Ultimate%20Target-Senior%20Analyst-green?style=for-the-badge" alt="Target"/>
-</div>
-
----
-
 ## 🚀 About Me
 
 <img align="right" alt="Data Analytics Dashboard" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
