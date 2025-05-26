@@ -158,7 +158,6 @@
 </div>
 
 ### 🤖 [NLP Chatbot for Restaurants](https://github.com/Hassamkhan888/Final-Deliverable-BC210414987-)
-<img align="right" alt="Chatbot Analytics" width="200" src="https://media.giphy.com/media/3o7qDMlVizuZhQr3rq/giphy.gif"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -176,7 +175,6 @@
 ---
 
 ### 📊 [Ecommerce Sales Dashboard](https://github.com/Hassamkhan888/ecommerce-sales-dashboard)
-<img align="left" alt="Ecommerce Dashboard" width="200" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -195,7 +193,6 @@
 ---
 
 ### 📈 [Sales Analytics Dashboard](https://github.com/Hassamkhan888/sales-analytics-dashboard)
-<img align="right" alt="Sales Analytics" width="200" src="https://media.giphy.com/media/l378Bu6ZYmzS6nBrW/giphy.gif"/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
@@ -214,7 +211,6 @@
 ---
 
 ### 🐍 [College Majors Earnings Analysis](https://github.com/Hassamkhan888/college-majors-earnings)
-<img align="left" alt="Python Data Analysis" width="200" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
