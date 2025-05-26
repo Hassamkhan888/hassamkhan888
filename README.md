@@ -1,4 +1,35 @@
-# Hi 👋, I'm Hassam Khan
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+</div>
+
+### 💻 Programming Languages
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### 📊 Data Analysis & Visualization
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+</div>
+
+### ☁️ Cloud & Big Data
+<div align="center">
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+</div>
+
+### 🔧 Python# Hi 👋, I'm Hassam Khan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Expert;Turning+Data+into+Insights" alt="Typing SVG" />
@@ -60,11 +91,9 @@
 <img align="right" alt="AI Chatbot" width="200" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00D2FF?style=flat-square&logo=tensorflow&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-> Intelligent chatbot solution built with Dialogflow & Python to enhance customer experience through automated menu queries, order processing, and FAQ handling.
+> Intelligent chatbot solution built with Python to enhance customer experience through automated menu queries, order processing, and FAQ handling.
 
 **Key Features:**
 - 🧠 Natural Language Processing for customer queries
@@ -83,9 +112,8 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-> Comprehensive Power BI dashboard providing deep insights into ecommerce performance metrics with advanced data modeling and interactive visualizations.
+> Comprehensive Power BI dashboard providing deep insights into ecommerce performance metrics with interactive visualizations.
 
 **Analytics Included:**
 - 📈 Revenue trend analysis & forecasting
@@ -104,37 +132,15 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-> Strategic sales analysis dashboard supporting data-driven business decisions with predictive analytics and statistical modeling.
+> Strategic sales analysis dashboard supporting data-driven business decisions with comprehensive reporting features.
 
 **Insights Delivered:**
 - 📊 Sales trend visualization & statistical analysis
-- 🔮 Revenue forecasting using ML algorithms
+- 🔮 Revenue forecasting and planning
 - 🎯 Customer segmentation analysis & profiling
 - 📋 Performance KPI tracking & benchmarking
 - 💡 Actionable business recommendations
-
-<br clear="both"/>
-
----
-
-### 🧠 [Data Science Portfolio](https://github.com/Hassamkhan888)
-<img align="left" alt="Data Science" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-> Collection of data science projects showcasing expertise in statistical analysis, machine learning, and data visualization.
-
-**Projects Include:**
-- 🔍 Exploratory Data Analysis (EDA) studies
-- 🤖 Machine Learning model implementations
-- 📊 Statistical hypothesis testing
-- 🎨 Advanced data visualizations
-- 📈 Time series analysis & forecasting
 
 <br clear="both"/>
 
@@ -148,37 +154,55 @@
 
 <div align="center">
 
+![Looker Studio](https://img.shields.io/badge/Google%20Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud%20Advanced-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery%20Advanced-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-20BEFF?style=for-the-badge&logo=databricks&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF9500?style=for-the-badge&logo=mlflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
-🎓 Expanding my expertise in cloud-based analytics, advanced machine learning techniques, and enterprise-level data solutions.
+🎓 Expanding my expertise in Google Cloud ecosystem and machine learning fundamentals.
 
 <div align="center">
   <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="300"/>
 </div>
 
-**Current Learning Path:**
-- 🤖 **Advanced Machine Learning** - Deep Neural Networks, Ensemble Methods
-- ☁️ **Cloud Certifications** - Google Cloud Professional Data Engineer
-- 📊 **Big Data Analytics** - Spark, Hadoop, Advanced BigQuery
-- 🧠 **AI/ML Operations** - Model Deployment, MLOps, CI/CD for ML
-- 🔍 **Advanced Statistics** - Bayesian Analysis, Time Series, A/B Testing
-- 🎯 **Business Intelligence** - Advanced DAX, MDX, Enterprise Dashboards
-- 🔬 **Research Methods** - Experimental Design, Causal Inference
+**Current Learning Focus:**
+- 📊 **Google Looker Studio** - Advanced data visualization and reporting
+- 🔍 **BigQuery** - Large-scale data analytics and SQL optimization
+- ☁️ **Google Cloud Platform** - Cloud infrastructure and data services
+- 🤖 **Machine Learning** - Fundamentals and practical applications
 
-**Certifications in Progress:**
-- 📜 Google Cloud Professional Data Engineer
-- 📜 AWS Certified Machine Learning - Specialty  
-- 📜 Microsoft Certified: Azure Data Scientist Associate
-- 📜 Tableau Desktop Specialist
+**Learning Goals:**
+- Master interactive dashboard creation in Looker Studio
+- Develop expertise in BigQuery for enterprise data analysis
+- Build proficiency in Google Cloud data tools and services
+- Apply machine learning concepts to real-world business problems
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hassamkhan888&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassamkhan888&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassamkhan888&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hassamkhan888&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" width="300"/>
+</div>
 
 ---
 
