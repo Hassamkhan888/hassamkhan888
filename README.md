@@ -92,6 +92,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 > Intelligent chatbot solution built with Python to enhance customer experience through automated menu queries, order processing, and FAQ handling.
 
@@ -112,6 +114,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 > Comprehensive Power BI dashboard providing deep insights into ecommerce performance metrics with interactive visualizations.
 
@@ -132,6 +135,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 > Strategic sales analysis dashboard supporting data-driven business decisions with comprehensive reporting features.
 
@@ -141,6 +145,28 @@
 - 🎯 Customer segmentation analysis & profiling
 - 📋 Performance KPI tracking & benchmarking
 - 💡 Actionable business recommendations
+
+<br clear="both"/>
+
+---
+
+### 🐍 [Python Data Analysis Projects](https://github.com/Hassamkhan888)
+<img align="left" alt="Python Analytics" width="200" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+> Collection of Python-based data analysis projects showcasing expertise in data manipulation, visualization, and statistical analysis.
+
+**Projects Include:**
+- 🔍 Exploratory Data Analysis (EDA) with Pandas
+- 📊 Data visualization with Matplotlib & Seaborn
+- 📈 Statistical analysis and trend identification
+- 🧹 Data cleaning and preprocessing workflows
+- 📋 Automated reporting and insights generation
 
 <br clear="both"/>
 
