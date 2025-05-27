@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Data Analytics Dashboard" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+<img align="right" alt="Data Analytics Dashboard" width="350" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
 💼 **Aspiring Data Analyst** passionate about transforming raw data into actionable business insights using modern analytics tools and techniques.
 
